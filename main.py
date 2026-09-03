@@ -13,4 +13,4 @@ else:
 
 
 
-print ("Program is ended ")
+print ("This program is completed")
