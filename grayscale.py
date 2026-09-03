@@ -9,4 +9,4 @@ if image is not None:
     cv2.destroyAllWindows()
 
 else:
-    print("Could not load the image")
+    print("Could not load the image please re check you img location")
