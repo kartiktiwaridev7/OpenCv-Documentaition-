@@ -1,6 +1,6 @@
 import cv2 
 
-image_path = input(" Enter the exact Image location:\n")
+image_path = input(" Enter your exact Image location:\n")
 image = cv2.imread(image_path)
 
 if image is not None:
@@ -13,4 +13,4 @@ if image is not None:
 
 
 else:
-    print("Your Image is not loded properly")
+    print("Your Image is not loded properly ")
