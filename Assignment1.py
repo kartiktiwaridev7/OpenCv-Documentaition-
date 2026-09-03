@@ -13,4 +13,4 @@ if image is not None:
 
 
 else:
-    print("Your Image is not loded properly ")
+    print("Your Image is not loded properly please try again")
