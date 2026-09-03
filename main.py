@@ -9,7 +9,7 @@ if image is not None:
     cv2.destroyAllWindows()
 
 else:
-    print(" Image loded succesfully")
+    print("Your image is loded succesfully")
 
 
 
